@@ -25,13 +25,13 @@ This report presents an in-depth comparison of the PPO model against a fixed pol
 
 ```
 Traffic-Optimization-PPO-model/
-├── README.md                  # Project overview and documentation
-├── requirements.txt           # Python dependencies
+├── README.md                  
+├── requirements.txt           
 │
-├── model/                     # Trained PPO model artifacts
+├── model/                     
 │   └── ppo_model_test_version.zip
 │
-├── scripts/                   # Main codebase for training, testing, plotting, and scoring
+├── scripts/                   
 │   ├── training ppo model.py
 │   ├── testing ppo model.py
 │   ├── baseline_code.py
@@ -40,7 +40,7 @@ Traffic-Optimization-PPO-model/
 │   ├── random_routes.py
 │   └── significance testing.py
 │
-├── data/                      # Simulation data and network files
+├── data/                      
 │   ├── results rewards.csv
 │   ├── randomTrips.py
 │   ├── outputs/
@@ -50,11 +50,11 @@ Traffic-Optimization-PPO-model/
 │       ├── maps/
 │       └── scenario route files/
 │
-├── future_work/               # Ongoing or proposed extensions
+├── future_work/               #Ongoing
 │   └── application/
 │
-└── references/                # Supporting literature and resources
-    └── research_paper.pdf
+└── references/                
+    └── 
 ```
 
 The visuals below provide a comprehensive overview of the project, illustrating the model architecture, training workflow, and key performance outcomes
