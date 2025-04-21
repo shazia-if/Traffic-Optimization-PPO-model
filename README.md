@@ -19,41 +19,41 @@ Download PDF:
 
 This report presents an in-depth comparison of the PPO model against a fixed policy. It discusses model setup, traffic simulation strategies, reward mechanisms, performance metrics, and highlights the PPO model's adaptability under dynamic traffic conditions.
 
-**Project Directory Structure**
+### Project Directory Overview
+
+```
 Traffic-Optimization-PPO-model/
-├── README.md
-├── requirements.txt
+├── README.md                  # Project overview and documentation
+├── requirements.txt           # Python dependencies
 │
-├── model/
-│   ├── ppo_model_test_version.zip
+├── model/                     # Trained PPO model artifacts
+│   └── ppo_model_test_version.zip
 │
-├── scripts/
-│   ├── optimization_score.py
+├── scripts/                   # Main codebase for training, testing, plotting, and scoring
+│   ├── training ppo model.py
+│   ├── testing ppo model.py
 │   ├── baseline_code.py
+│   ├── optimization_score.py
 │   ├── my_plot.py
 │   ├── random_routes.py
-│   ├── significance testing.py
-│   ├── testing ppo model.py
-│   └──training ppo model.py
+│   └── significance testing.py
 │
-├── data/
+├── data/                      # Simulation data and network files
 │   ├── results rewards.csv
-|   ├── randomTrips.py
+│   ├── randomTrips.py
 │   ├── outputs/
-│   │   ├── training_outputs
-│   │   ├── testing_outputs
-│   │ 
+│   │   ├── training_outputs/
+│   │   └── testing_outputs/
 │   └── nets/
-│       ├── maps
-│       └── scenario route files
+│       ├── maps/
+│       └── scenario route files/
 │
-├── future_work/
+├── future_work/               # Ongoing or proposed extensions
 │   └── application/
-│       ├── 
-│       └── 
 │
-└── references/
+└── references/                # Supporting literature and resources
     └── research_paper.pdf
+```
 
 The visuals below provide a comprehensive overview of the project, illustrating the model architecture, training workflow, and key performance outcomes
 ![1](https://github.com/user-attachments/assets/273fdfc1-3f7a-4823-8fd5-69d7eb2d5378)
