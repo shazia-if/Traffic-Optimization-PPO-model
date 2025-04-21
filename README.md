@@ -8,11 +8,13 @@ This project investigates the application of Proximal Policy Optimization (PPO) 
 Through reinforcement learning, the system aims to minimize average vehicle waiting times and reduce congestion. The PPO model is tested against a fixed-action policy, and performance is assessed using custom metrics including queue length, mean speed, total waiting time, and an optimization score.
 
 **Explanatory Report**
+
 Read online: 
 
 Download PDF:
 
 **Case Study Report**
+
 Read online: 
 
 Download PDF: 
