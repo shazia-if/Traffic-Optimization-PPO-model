@@ -9,15 +9,15 @@ Through reinforcement learning, the system aims to minimize average vehicle wait
 
 **Explanatory Report**
 
-Read online: 
+Read online: https://medium.com/@shaziaparween333/optimizing-traffic-flow-using-sumo-rl-an-integration-of-sumo-and-reinforcement-learning-455514d2eec9
 
-Download PDF:
+Download PDF: https://drive.google.com/file/d/1atmlD5yEVZk0w82fNS6EBbmuH0RzAYQo/view?usp=sharing
 
 **Case Study Report**
 
-Read online: 
+Read online: https://medium.com/@shaziaparween333/training-a-ppo-reinforcement-learning-model-for-traffic-optimization-using-sumo-rl-d925aaa085a9
 
-Download PDF: 
+Download PDF: https://drive.google.com/file/d/1zfiYsuUcT0uWAmItHnvr6Zg-_qJt_lPD/view?usp=sharing
 
 This report presents an in-depth comparison of the PPO model against a fixed policy. It discusses model setup, traffic simulation strategies, reward mechanisms, performance metrics, and highlights the PPO model's adaptability under dynamic traffic conditions.
 
